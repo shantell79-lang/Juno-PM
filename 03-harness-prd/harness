@@ -1,0 +1,82 @@
+
+| Surface | Specification |
+|---|---|
+| 01 Context | customer feedback, Salesforce, ticket trackers, existing prioritized roadmap, JIRA, strategic context, SurveyMonkey |
+| 02 Tools | communication tools, ticket management tools, road mapping tools, feedback tool, sales win/losses (CRM), analytics tool, SurveyMonkey,… |
+| 03 Loop | Two attempts, and if you are not able to access all required applications, let me know, but proceed with using the data from the… |
+| 04 Memory | last successful run / draft that I approved. Last results sent to me can be shared to only the individuals I have instructed. |
+| 05 Permissions | read auto · draft auto · write confirm · send blocked |
+| 06 Verification | I tell it if the draft was right or not |
+
+## 01 Context · Data Requirements
+
+**Required sources, and exclusions**
+
+customer feedback, Salesforce, ticket trackers, existing prioritized roadmap, JIRA, strategic context, SurveyMonkey
+
+**How fresh must it be**
+
+data updated in the source should be available in this output the next calendar day, so that the data is being refreshed at the start of each business each calendar day
+
+## 02 Tools · System Capabilities
+
+**The verb list**
+
+communication tools, ticket management tools, road mapping tools, feedback tool, sales win/losses (CRM), analytics tool, SurveyMonkey, JIRA, Salesforce
+
+**Deliberate omissions**
+
+Direct access to core business applications because real-time data is not required. You do not need to know how existing customer issues are being addressed.
+
+## 03 Loop · AI Costs & Latency
+
+**Turn ceiling and escalation**
+
+Two attempts, and if you are not able to access all required applications, let me know, but proceed with using the data from the applications you are able to access.
+
+**Latency and cost target**
+
+you should be able to get a response back from each application within 5 seconds. if this doesn't occur within 5 seconds for the first two attempts, let me know. I should be able to predict the max cost per day.
+
+## 04 Memory · Data Requirements
+
+**What persists, at what scope**
+
+last successful run / draft that I approved. Last results sent to me can be shared to only the individuals I have instructed.
+
+**Expiry and write rules**
+
+The information you generate will be saved for the last two runs only. Until further notice, I and anyone on my team will provide you with the names; we are the only individuals who can override the information you have gathered and provided.
+
+## 05 Permissions · AI Risks & Mitigations
+
+**The permission tier**
+
+| Side-effect class | Tier |
+|---|---|
+| read | auto |
+| draft | auto |
+| write | confirm |
+| send | blocked |
+
+**Justification**
+
+Draft without asking me, do not edit or send this to anyone.
+
+## 06 Verification · AI Testing & Measurement
+
+**The check before output ships**
+
+I tell it if the draft was right or not
+
+**Failure behaviour**
+
+If it fails, stop and let me know, and I will instruct you what to do next.
+
+## Eval plan
+
+_Stub. Module 6 fills this in: golden set, pass thresholds, and regression cadence for the verification gate above._
+
+## Out of scope
+
+Any capability not in the verb list above, and any action tiered `blocked`. Both are decisions on the record, not omissions.
