@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-_experience-risk-radar.lovable.app_
+_https://experience-risk-radar.lovable.app/_
 
 _____
 
