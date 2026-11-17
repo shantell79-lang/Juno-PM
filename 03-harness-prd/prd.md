@@ -4,7 +4,7 @@
 
 ## Problem & user
 
-_The user problem and who has it._
+_Building a leadership dashboard to decrease the number of customer product cancellations._
 
 _____
 
