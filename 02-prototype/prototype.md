@@ -10,7 +10,7 @@ _____
 
 ## What it demonstrates
 
-_Prototype of a leadership dashboard that will categorize risk and provide recommendations to mitigate each risk._
+_Prototype demonstrates the type of leadership dashboard that can be created that will categorize the risk and provide recommendations to mitigate each identified risk._
 
 _____
 
