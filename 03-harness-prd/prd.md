@@ -4,10 +4,9 @@
 
 ## Problem & user
 
-_Building a leadership dashboard to decrease the number of customer product cancellations. When the dashboard is generated, it will include recommendations to mitigate each risk identified._
+_The problem is that customers are cancelling which has a negative impact on the financials. To resolve the issue, this is a leadership dashboard which will identify and categorize the risk along with recommendations to mitigate each identified risk._
 
 _____
-
 ## The harness
 
 | Surface | Specification |
