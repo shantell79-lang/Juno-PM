@@ -4,7 +4,7 @@
 
 ## Problem & user
 
-_Building a leadership dashboard to decrease the number of customer product cancellations._
+_Building a leadership dashboard to decrease the number of customer product cancellations. When the dashboard is generated, it will include recommendations to mitigate each risk identified._
 
 _____
 
